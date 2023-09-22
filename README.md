@@ -9,12 +9,12 @@ This document provides details on an illustrative set of projects undertaken dur
 
 | Task  | Delivered |
 |----------|-------------------|
-| **PNG** Calculate NPV of loan requested for community hospital, given grant element | Used available tools to calculate grant element of the loan, and determined the NPV of service payments on loan |
-| **PNG** Equipping Treasury to have discussions on monetary policy with the IMF | Applied my classroom knowledge on the mechanisms of inflation targeting and using the exchange rate as a nominal anchor to contribute to discussion brief |
-| **PNG** Prime Minister visiting Eastern Highlands Province (EHP), needed to be informed on budget appropriation for PIP (Public Infrastructure Program) | Look through multiple editions of Budget: Volume 2D (Budget Estimates for Statutory Authorities, Provincial Health Authorities, Provincial Governments, Debt Services, and Trust Accounts) to compile budget commitments for EHP |
-| **PNG** Assess actual Sovereign Wealth Fund (SWF) contributions from Mining and Petroleum Taxes (MPT) | Extract contribution information from company circulars to compare against reported and required amounts |
-| **PNG** Create Secretary’s public address to the World Bank Country Economic Memorandum | Researched and wrote a public statement which addressed PNG’s high-level fiscal outlook and roadmap, and areas of engagement/activity by the World Bank |
-| **Liberia** Assess impact of rice ban in India on Liberian import, price, and demand of rice | Gathered data from various databases on the historical price of rice and the movement of rice price indices, researched similar historical shocks to commodities prices and resulting studies on price elasticity of rice, contributing to technical note |
+| **PNG** - Calculate NPV of loan requested for community hospital, given grant element | Used available tools to calculate grant element of the loan, and determined the NPV of service payments on loan |
+| **PNG** - Equipping Treasury to have discussions on monetary policy with the IMF | Applied my classroom knowledge on the mechanisms of inflation targeting and using the exchange rate as a nominal anchor to contribute to discussion brief |
+| **PNG** - Prime Minister visiting Eastern Highlands Province (EHP), needed to be informed on budget appropriation for PIP (Public Infrastructure Program) | Look through multiple editions of Budget: Volume 2D (Budget Estimates for Statutory Authorities, Provincial Health Authorities, Provincial Governments, Debt Services, and Trust Accounts) to compile budget commitments for EHP |
+| **PNG** - Assess actual Sovereign Wealth Fund (SWF) contributions from Mining and Petroleum Taxes (MPT) | Extract contribution information from company circulars to compare against reported and required amounts |
+| **PNG** - Create Secretary’s public address to the World Bank Country Economic Memorandum | Researched and wrote a public statement which addressed PNG’s high-level fiscal outlook and roadmap, and areas of engagement/activity by the World Bank |
+| **Liberia** - Assess impact of rice ban in India on Liberian import, price, and demand of rice | Gathered data from various databases on the historical price of rice and the movement of rice price indices, researched similar historical shocks to commodities prices and resulting studies on price elasticity of rice, contributing to technical note |
 
 ## Medium-Term 
 
